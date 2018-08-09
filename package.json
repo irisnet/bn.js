@@ -1,5 +1,5 @@
 {
-  "name": "bn.js",
+  "name": "bn",
   "version": "1.0.0",
   "description": "Big number implementation in pure javascript",
   "main": "lib/bn.js",
