@@ -26,10 +26,7 @@
   },
   "homepage": "https://github.com/shineabel/bn",
   "browser": {
-    "buffer": true
-  },
-   "dependencies": {
-    "buffer": "5.2.0"
+    "buffer": "./node_modules/bn/lib/bn.js"
   },
   "devDependencies": {
     "istanbul": "^0.3.5",
