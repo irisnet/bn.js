@@ -28,6 +28,9 @@
   "browser": {
     "buffer": "./node_modules/buffer/index.js"
   },
+   "dependencies": {
+    "buffer": "5.2.0"
+  },
   "devDependencies": {
     "istanbul": "^0.3.5",
     "mocha": "^2.1.0",
