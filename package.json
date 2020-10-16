@@ -24,13 +24,7 @@
   "bugs": {
     "url": "https://github.com/indutny/bn.js/issues"
   },
-  "files": [
-    "lib"
-  ],
   "homepage": "https://github.com/indutny/bn.js",
-  "browser": {
-    "buffer": "./node_modules/buffer/index.js"
-  },
   "dependencies": {
     "buffer": "5.2.0"
   },
